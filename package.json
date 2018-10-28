@@ -1,7 +1,7 @@
 {
   "name": "lisp-navigator",
   "main": "./lib/lisp-navigator",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "This package lets you navigate simple lisp code",
   "keywords": [],
   "activationCommands": {
