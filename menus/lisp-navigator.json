@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle lisp-navigator",
+        "command": "lisp-navigator:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "lisp-navigator",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "lisp-navigator:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

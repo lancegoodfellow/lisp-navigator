@@ -1,0 +1,10 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "lisp-navigator:toggle",
+    "ctrl-alt-r": "lisp-navigator:root",
+    "ctrl-alt-i": "lisp-navigator:parent",
+    "ctrl-alt-j": "lisp-navigator:leftSibling",
+    "ctrl-alt-k": "lisp-navigator:child",
+    "ctrl-alt-l": "lisp-navigator:rigthSibling"
+  }
+}
