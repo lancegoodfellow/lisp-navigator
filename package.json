@@ -1,10 +1,9 @@
 {
   "name": "lisp-navigator",
   "main": "./lib/lisp-navigator",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "This package lets you navigate simple lisp code",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "lisp-navigator:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
